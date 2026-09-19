@@ -2,27 +2,6 @@
 
 A Power BI case study analysing long-term global HIV burden, mortality and treatment progress from **2000 to 2024**.
 
-[View the full portfolio case study](https://mayfuns.github.io/mariam-analytics-portfolio/global-hiv.html)
-
-![Global HIV Overview](01_dashboard/global-hiv-overview.png)
-
-## Dashboard pages
-
-The Power BI report contains three pages:
-
-1. [Global HIV Overview](01_dashboard/global-hiv-overview.png)
-2. [Geographic HIV Burden](01_dashboard/global-hiv-geographic-burden.png)
-3. [Treatment Access & HIV Outcomes](01_dashboard/global-hiv-treatment-outcomes.png)
-
-Each page can also be viewed directly through the portfolio's dashboard gallery.
-
-## Project overview
-
-This project was designed to make long-term global HIV trends easier to understand and to show how the burden of disease has changed over time.
-
-The analysis brings together infections, HIV-related deaths, people living with HIV and treatment coverage so progress can be interpreted in context rather than through a single headline metric.
-
-## Public-health question
 
 **How have new HIV infections, HIV-related deaths, treatment coverage and the number of people living with HIV changed between 2000 and 2024?**
 
@@ -106,33 +85,5 @@ This project is part of my Data & BI Analytics portfolio.
 - [Portfolio homepage](https://mayfuns.github.io/mariam-analytics-portfolio/)
 - [Global HIV full case study](https://mayfuns.github.io/mariam-analytics-portfolio/global-hiv.html)
 - [GitHub profile](https://github.com/Mayfuns)
-
----
-
-**Mariam Adetoyi**  
-Data Analyst | Business Intelligence | Public Health Analytics
-
-
-## Repository structure
-
-```text
-01_dashboard/
-  ├── Dashboard exports and screenshots
-  └── README.md
-
-02_powerbi/
-  ├── Power BI project file (.pbix)
-  ├── DAX measures / model notes
-  └── README.md
-
-03_data/
-  ├── Source and cleaned analytical data
-  ├── Data dictionary
-  └── README.md
-
-04_documentation/
-  ├── Project report / methodology
-  └── README.md
-```
 
 The repository is organised so the complete analytical workflow can be reviewed directly on GitHub rather than relying on external Drive links.
