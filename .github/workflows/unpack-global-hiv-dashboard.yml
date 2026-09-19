@@ -37,3 +37,5 @@ jobs:
             git commit -m "Unpack original Global HIV dashboard images"
             git push
           fi
+
+# one-off trigger
